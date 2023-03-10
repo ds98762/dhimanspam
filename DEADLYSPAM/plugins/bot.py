@@ -15,14 +15,14 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
   
 
-DEADLY = "✯ 𝗗𝗲𝗮𝗱𝗹𝘆 𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲 ✯\n\n"
+DEADLY = "✯ 𝗗𝗵𝗶𝗺𝗮𝗻 𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲 ✯\n\n"
 DEADLY += f"═══════════════════\n"
-DEADLY += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.1`\n"
-DEADLY += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
-DEADLY += f"• **ᴅᴇᴀᴅʟʏʙᴏᴛ ᴠᴇʀsɪᴏɴ**  : `{deadlyversion}`\n"
+DEADLY += f"• **𝗣𝗬𝗧𝗛𝗢𝗡 𝗩𝗘𝗥𝗦𝗜𝗢𝗡** : `3.10.1`\n"
+DEADLY += f"• **𝗧𝗘𝗟𝗘𝗧𝗛𝗢𝗡 𝗩𝗘𝗥𝗦𝗜𝗢𝗡** : `{version.__version__}`\n"
+DEADLY += f"• **𝗗𝗛𝗶𝗠𝗔𝗡𝗕𝗢𝗧 𝗩𝗘𝗥𝗦𝗜𝗢𝗡**  : `{deadlyversion}`\n"
 DEADLY += f"═══════════════════\n\n"   
 
                                   
@@ -34,11 +34,11 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/DEADLY_SPAMBOT"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DEADLY_SPAM_BOT")
+        Button.url("🌼 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🌼", "https://t.me/Sdhiman_feelin"),
+        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/CHATTING_GRUP001")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Team-Deadly/DEADLY-SPAMBOT")
+        Button.url("• 😈 𝗢𝗪𝗡𝗘𝗥 😈 •", "https://t.mei_dxlvir")
         ]
         ]
         )
@@ -87,7 +87,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🎉 🇵 🇴 🇳 🇬 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
+        await event.edit(f"🍷 𝗣 𝗢 𝗡 𝗚 💮 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
         
         
 
@@ -103,7 +103,7 @@ async def ping(e):
 @BOT9.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "𝐑𝐞𝐥𝐨𝐚𝐝𝐢𝐧𝐠 ↪️.. Please Wait Until It Starts Again"
+        text = "𝗥𝗘𝗟𝗢𝗔𝗗𝗜𝗡𝗚 𝗗𝗛𝗜𝗠𝗔𝗡 𝗦𝗣𝗔𝗠 ↪️.. Please Wait Until It Starts Again"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await BOT0.disconnect()
@@ -176,7 +176,7 @@ async def tb(event):
             newsudo = f"{sudousers} {target}"
         else:
             newsudo = f"{target}"
-        await ok.edit(f"**Added `{target}` ** as a sudo user 🔱 Restarting.. Please wait a minute...")
+        await ok.edit(f"**Added `{target}` ** 𝗔𝗦 𝗔 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 🔱 𝗥𝗘𝗦𝗧𝗔𝗥𝗧𝗜𝗡𝗚.. 𝗣𝗟𝗘𝗔𝗦𝗘 𝗪𝗔𝗜𝗧 𝗔 𝗠𝗜𝗡𝗨𝗧𝗘...")
         heroku_var[DEADLY] = newsudo   
    
      
