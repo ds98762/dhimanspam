@@ -20,13 +20,13 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝘿𝙝𝙞𝙢𝙖𝙣✘ᥫʀ᭡](https://t.me/
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Team-Deadly/BOTDEPLOY"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
 
-#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/Team-Deadly/BOTDEPLOY) 
+#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/ds98762/DhimanXspam) 
 
 # Tutorial 
 
 [![DHIMANSPAMBOT TUTORIAL](https://img.shields.io/badge/Watch%20Now-blue)](http://youtu.be/iAG3csVQo_g)
 
-## What Is DeadlySpamBot
+## What Is DhimanSpamBot
 
 <b>DhimanSpamBot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
 
