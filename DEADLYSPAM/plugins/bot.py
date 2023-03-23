@@ -34,8 +34,8 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("🌼 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🌼", "https://t.me/Sdhiman_feelin"),
-        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/CHATTING_GRUP001")
+        Button.url("🌼 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🌼", "https://t.me/ddsrvr"),
+        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/dhimandiscus")
         ],
         [
         Button.url("• 😈 𝗢𝗪𝗡𝗘𝗥 😈 •", "https://t.me/i_dxlvir")
@@ -87,7 +87,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🔥 𝘿𝙃𝙄𝙈𝘼𝙉 ✘ 𝙎𝙋𝘼𝙈 🤬 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
+        await event.edit(f"🔥 #𝘿𝙃𝙄𝙈𝘼𝙉_✘_𝙎𝙋𝘼𝙈 🥵 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
         
         
 
