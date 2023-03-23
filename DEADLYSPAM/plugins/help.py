@@ -36,8 +36,8 @@ async def help(event):
                                   caption=DEAD_Help,
                                   buttons=[
         [
-        Button.url("🌼 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🌼", "https://t.me/Dhiman_Feelings"),
-        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/CHATTING_GRUP001")
+        Button.url("🌼 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🌼", "https://t.me/ddsrvr"),
+        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/dhimandiscus")
         ] 
         ]
         )
