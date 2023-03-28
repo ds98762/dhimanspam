@@ -18,7 +18,7 @@ from datetime import datetime
 DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
   
 
-DEADLY = "✯ 𝗗𝗵𝗶𝗺𝗮𝗻 𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲 ✯\n\n"
+DEADLY = "✯ 𝗗𝗛𝗜𝗠𝗔𝗡 𝗦𝗣𝗔𝗠 𝗛𝗘𝗥𝗘 ✯\n\n"
 DEADLY += f"═══════════════════\n"
 DEADLY += f"• **𝗣𝗬𝗧𝗛𝗢𝗡 𝗩𝗘𝗥𝗦𝗜𝗢𝗡** : `3.10.1`\n"
 DEADLY += f"• **𝗧𝗘𝗟𝗘𝗧𝗛𝗢𝗡 𝗩𝗘𝗥𝗦𝗜𝗢𝗡** : `{version.__version__}`\n"
@@ -34,7 +34,7 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("🌼 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🌼", "https://t.me/ddsrvr"),
+        Button.url("🌼 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🌼", "https://t.me/ddsrvr"),
         Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/dhimandiscus")
         ],
         [
