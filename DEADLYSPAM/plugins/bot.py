@@ -87,7 +87,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🔥 #𝘿𝙃𝙄𝙈𝘼𝙉_✘_𝙎𝙋𝘼𝙈 🥵 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
+        await event.edit(f"🔥 #ROYAL_DHIMAN_SPAM 🥵 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
         
         
 
@@ -103,7 +103,7 @@ async def ping(e):
 @BOT9.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "𝗥𝗘𝗟𝗢𝗔𝗗𝗜𝗡𝗚 𝗗𝗛𝗜𝗠𝗔𝗡 𝗦𝗣𝗔𝗠 ↪️.. Please Wait Until It Starts Again"
+        text = "𝗥𝗘𝗟𝗢𝗔𝗗𝗜𝗡𝗚 𝗗𝗛𝗜𝗠𝗔𝗡 𝗦𝗣𝗔𝗠 ↪️.. 𝗣𝗟𝗘𝗔𝗦𝗘 𝗪𝗔𝗜𝗧 𝗨𝗡𝗧𝗜𝗟 𝗜𝗧 𝗦𝗧𝗔𝗥𝗧𝗦 𝗔𝗚𝗜𝗔𝗜𝗡 😈"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await BOT0.disconnect()
@@ -158,7 +158,7 @@ sudousers = os.environ.get("SUDO_USER", None)
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%saddsudo(?: |$)(.*)" % hl))
 async def tb(event):
     if event.sender_id == OWNER_ID:
-        ok = await event.reply("Adding user as a sudo...")
+        ok = await event.reply("𝗔𝗗𝗗𝗜𝗡𝗚 𝗨𝗦𝗘𝗥 𝗔𝗦 𝗔 𝗦𝗨𝗗𝗢...")
         DEADLY = "SUDO_USER"
         if HEROKU_APP_NAME is not None:
             app = Heroku.app(HEROKU_APP_NAME)
