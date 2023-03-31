@@ -17,7 +17,7 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝘿𝙝𝙞𝙢𝙖𝙣✘ᥫʀ᭡](https://t.me/
 
 [![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy)
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Team-Deadly/BOTDEPLOY"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ds98762/DhimanXspam"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
 
 #### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/ds98762/DhimanXspam) 
@@ -36,6 +36,6 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝘿𝙝𝙞𝙢𝙖𝙣✘ᥫʀ᭡](https://t.me/
 
 # CᴏɴᴛʀɪBᴜᴛᴏʀꜱ
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Team-Deadly/DEADLY-SPAMBOT)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=ds98762/DhimanXspam)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
