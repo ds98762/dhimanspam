@@ -10,12 +10,12 @@ DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/0fc760cb0777ea
 
 Deadly_Button = [
         [
-        Button.url("🌼 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🌼", "https://t.me/ddsrvr"),
-        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/dhimandiscus")
+        Button.url("🌼 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🌼", "https://t.me/abt_mei"),
+        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/punjabi_hindi_chat")
         ],
         [
-        Button.url(" 😈 𝗢𝗪𝗡𝗘𝗥 😈 ", "https://t.me/i_dxlvir"),
-        Button.url(" 🐣 𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦 🥂 ", "https://t.me/i_dxlvir")
+        Button.url(" 😈 𝗢𝗪𝗡𝗘𝗥 😈 ", "https://t.me/godfath3r_xd"),
+        Button.url(" 🐣 𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦 🥂 ", "https://t.me/soul_x6")
         ]
         ]
         
@@ -39,7 +39,7 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[🍷 𝗗𝗛𝗜𝗠𝗔𝗡 🍷](tg://user?id={5760312424})"
+        creator = f"[🍷 𝗗𝗛𝗜𝗠𝗔𝗡 🍷](tg://user?id={6164559838})"
         DEADLY_ON = f"""
 𝗛𝗘𝗬 {mention},
 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗗𝗛𝗜𝗠𝗔𝗡 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬:- {creator}!
