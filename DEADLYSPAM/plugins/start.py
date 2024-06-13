@@ -11,11 +11,11 @@ DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/0fc760cb0777ea
 Deadly_Button = [
         [
         Button.url("🌼 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🌼", "https://t.me/abt_mei"),
-        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/punjabi_hindi_chat")
+        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/Chxting")
         ],
         [
         Button.url(" 😈 𝗢𝗪𝗡𝗘𝗥 😈 ", "https://t.me/godfath3r_xd"),
-        Button.url(" 🐣 𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦 🥂 ", "https://t.me/soul_x6")
+        Button.url(" 🐣 𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦 🥂 ", "https://t.me/Ct_x07")
         ]
         ]
         
